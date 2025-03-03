@@ -17,6 +17,6 @@ Cerion is an AI-powered trading assistant designed to help memecoin traders opti
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YourUsername/Cerion.git
-cd Cerion
+git clone https://github.com/AndrewRocker17/cerion-trading-assistant.git
+cd cerion-trading-assistant
 npm install
